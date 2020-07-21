@@ -98,4 +98,6 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git 
+  repository: git@github.com:luojianhui9505/luojianhui9505.github.io.git
+  branch: master
